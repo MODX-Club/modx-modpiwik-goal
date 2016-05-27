@@ -1,0 +1,7 @@
+# modPiwikGoal
+
+## 0.1.5
+Allow to rotate phones
+
+## 0.1.0
+Hello world release
